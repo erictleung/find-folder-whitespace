@@ -1,0 +1,9 @@
+name: Find Folders with Whitespace
+author: erictleung
+branding:
+  icon: 'search'
+  color: 'green'
+description: Find Folders with whitespace
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
